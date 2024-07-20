@@ -16,7 +16,7 @@ const Home = () => {
             console.log("inside useEffect");
             const response = await fetch('https://workoutlog-4z21.onrender.com/');
             //turn the response into a json object
-            console.log(response);
+            
             const json = await response.json();
 
             //make sure the response came through ok

@@ -18,7 +18,7 @@ const WorkoutsForm = () => {
         const workout = {title, reps, load}
         
         
-        const response = await fetch('/api/workouts', {
+        const response = await fetch('https://workoutlog-4z21.onrender.com/', {
             //define the method for calling api
             method: 'POST',
             //define the body of the request and turn into JSON, from an object

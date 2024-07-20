@@ -4,7 +4,7 @@ import formatDistanceToNow from 'date-fns/formatDistanceToNow'
 const WorkoutsDetails = ({workout}) => {
     const { dispatch } = useWorkoutsContext()
     const handleClick = async () => {
-        const response = await fetch('api/workouts/' + workout._id, {
+        const response = await fetch('https://workoutlog-4z21.onrender.com/' + workout._id, {
             method: 'DELETE'
         })
         //going to respond with the object that was just deleted
