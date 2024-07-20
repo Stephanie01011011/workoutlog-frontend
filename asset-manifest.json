@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/workoutlog/api/workouts/static/css/main.63475a17.css",
-    "main.js": "/workoutlog/api/workouts/static/js/main.1c691b64.js",
-    "index.html": "/workoutlog/api/workouts/index.html",
-    "main.63475a17.css.map": "/workoutlog/api/workouts/static/css/main.63475a17.css.map",
-    "main.1c691b64.js.map": "/workoutlog/api/workouts/static/js/main.1c691b64.js.map"
+    "main.css": "/workoutlog-frontend/static/css/main.63475a17.css",
+    "main.js": "/workoutlog-frontend/static/js/main.1c691b64.js",
+    "index.html": "/workoutlog-frontend/index.html",
+    "main.63475a17.css.map": "/workoutlog-frontend/static/css/main.63475a17.css.map",
+    "main.1c691b64.js.map": "/workoutlog-frontend/static/js/main.1c691b64.js.map"
   },
   "entrypoints": [
     "static/css/main.63475a17.css",
