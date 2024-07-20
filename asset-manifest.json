@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/workoutlog-frontend/static/css/main.63475a17.css",
-    "main.js": "/workoutlog-frontend/static/js/main.3c4f40bd.js",
+    "main.js": "/workoutlog-frontend/static/js/main.dd0f16bc.js",
     "index.html": "/workoutlog-frontend/index.html",
     "main.63475a17.css.map": "/workoutlog-frontend/static/css/main.63475a17.css.map",
-    "main.3c4f40bd.js.map": "/workoutlog-frontend/static/js/main.3c4f40bd.js.map"
+    "main.dd0f16bc.js.map": "/workoutlog-frontend/static/js/main.dd0f16bc.js.map"
   },
   "entrypoints": [
     "static/css/main.63475a17.css",
-    "static/js/main.3c4f40bd.js"
+    "static/js/main.dd0f16bc.js"
   ]
 }
